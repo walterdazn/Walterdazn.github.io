@@ -1,0 +1,4 @@
+1. As tags HTML <h2> e <h4> são utilizadas para definir cabeçalhos ou títulos em uma página web, com diferentes níveis de hierarquia. A diferença entre elas está principalmente no nível de importância e na hierarquia dentro da estrutura de cabeçalhos de um documento HTML.
+2. Sim, o código <center><p>texto</center><p> apresenta um erro de marcação HTML. O problema está na forma como as tags estão sendo usadas, então o código corrigido seria:<p style="text-align: center;">texto</p>
+3. A tag <p> em HTML é usada para definir um parágrafo de texto. Ela é uma das tags mais básicas e comuns para estruturar o conteúdo textual em uma página web. A função principal da tag <p> é indicar que o conteúdo dentro dela é um parágrafo de texto normal.
+
